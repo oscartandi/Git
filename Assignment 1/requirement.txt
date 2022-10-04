@@ -1,0 +1,1 @@
+You need basic compter knowledge to operate git.
