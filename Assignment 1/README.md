@@ -1,2 +1,2 @@
 ## Hello welcome to my GIT.
-## Hope you are doin well !
+## Hope you are doing well !
